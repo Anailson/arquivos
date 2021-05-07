@@ -1,6 +1,6 @@
 
-Usuario Teste Lista ;pessoa1@gmail.com;50
-Pessoa 2 Teste Lista ;pessoa2@gmail.com;30
-Usuario3 Teste Lista ;pessoa3@gmail.com;15
+Usuario Teste Lista | pessoa1@gmail.com |50
+Pessoa 2 Teste Lista | pessoa2@gmail.com |30
+Usuario3 Teste Lista | pessoa3@gmail.com |15
 
-Analista JAva Desenvolvedor ;java@gmail.com;36
+Analista JAva Desenvolvedor | java@gmail.com |36
